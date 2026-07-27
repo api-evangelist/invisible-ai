@@ -1,8 +1,16 @@
 aid: invisible-ai
 name: Invisible AI
-description: 'Invisible AI is a company surfaced as a portfolio company of sierra-ventures and added to
-  the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'Invisible AI is a next-generation computer vision company delivering a Vision Execution
+  System (VES) for manufacturing. NVIDIA Jetson-powered edge devices with Intel RealSense 3D depth
+  cameras and on-device SSD storage mount to existing factory infrastructure and, within hours,
+  encode and segment the production floor in real time. The no-code, edge-based platform captures
+  100% of production cycles across every station without wearables, operator disruption, or cloud
+  integration, then analyzes human motion and objects to surface cycle-time variability, process
+  drift, quality escapes, and safety/ergonomics risk. Founded in 2018 by autonomous-vehicle veterans
+  and backed by Sierra Ventures, it serves automotive and aerospace OEMs including Toyota, Ford,
+  General Motors, BMW, Mercedes-Benz, and Nissan. Invisible AI publishes no public API or developer
+  platform today; this profile captures its company identity, security posture, and public web
+  surface for the API Evangelist network.'
 url: https://raw.githubusercontent.com/api-evangelist/invisible-ai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +18,31 @@ x-backed-by:
 - sierra-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://www.invisible.ai/og-image.png
 tags:
 - Company
 - Ai
+- Computer Vision
+- Manufacturing
+- Edge AI
+- Industry 4.0
+- Automotive
+- Aerospace
+- Machine Vision
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +51,25 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://invisible.ai/
+  url: https://www.invisible.ai/
+- type: About
+  url: https://www.invisible.ai/company/
+- type: Blog
+  url: https://www.invisible.ai/blog/
+- type: Support
+  url: https://www.invisible.ai/contact/
+- type: GitHubOrganization
+  url: https://github.com/invisible-ai
+- type: TermsOfService
+  url: https://www.invisible.ai/terms-of-use/
+- type: PrivacyPolicy
+  url: https://www.invisible.ai/privacy-policy/
+- type: Compliance
+  url: https://www.invisible.ai/security-privacy/
+- type: DomainSecurity
+  url: security/invisible-ai-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
