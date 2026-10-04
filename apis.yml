@@ -50,7 +50,7 @@ image: https://www.invisible.ai/og-image.png
 tags:
 - Company
 - Artificial Intelligence
-- Computer-Vision
+- Computer Vision
 - Manufacturing
 - Edge AI
 - Industry 4.0
@@ -67,6 +67,7 @@ tags_raw:
 - Automotive
 - Aerospace
 - Machine Vision
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
