@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Invisible AI is a company surfaced as a portfolio company of sierra-ventures and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.
+Invisible AI is a next-generation computer vision company delivering a Vision Execution System (VES) for manufacturing. NVIDIA Jetson-powered edge devices with Intel RealSense 3D depth cameras and on-device SSD storage mount to existing factory infrastructure and, within hours, encode and segment the production floor in real time. The no-code, edge-based platform captures 100% of production cycles across every station without wearables, operator disruption, or cloud integration, then analyzes human motion and objects to surface cycle-time variability, process drift, quality escapes, and safety/ergonomics risk. Founded in 2018 by autonomous-vehicle veterans and backed by Sierra Ventures, it serves automotive and aerospace OEMs including Toyota, Ford, General Motors, BMW, Mercedes-Benz, and Nissan. Invisible AI publishes no public API or developer platform today; this profile captures its company identity, security posture, and public web surface for the API Evangelist network.
 
-Backed by: sierra-ventures — https://invisible.ai/
+**Areas:** Company · Artificial Intelligence · Computer Vision · Manufacturing · Edge AI · Industry 4.0 · Automotive · Aerospace · Machine Vision
+
+## Invisible AI on APIs.io
+
+Everything profiled for Invisible AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/invisible-ai/](https://apis.io/providers/invisible-ai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Invisible Ai Domain Security](https://apis.io/security/invisible-ai/invisible-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.invisible.ai/)
+- [Support](https://www.invisible.ai/contact/)
+- [Blog](https://www.invisible.ai/blog/)
+- [Compliance](https://www.invisible.ai/security-privacy/)
+- [Terms of service](https://www.invisible.ai/terms-of-use/)
+- [Privacy policy](https://www.invisible.ai/privacy-policy/)
+- [GitHub](https://github.com/invisible-ai)
+
+## API Evangelist rating
+
+**Kin Score 12.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 28.9 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/invisible-ai/](https://apis.io/providers/invisible-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Invisible AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/invisible-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
